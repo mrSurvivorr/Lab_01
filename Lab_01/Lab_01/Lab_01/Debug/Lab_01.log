@@ -1,0 +1,5 @@
+﻿  Lab_01.cpp
+g:\grade 3\software development technology\lab_01\lab_01\lab_01\lab_01.cpp(12): error C2276: &: недопустимая операция с выражением привязанной функции-члена
+g:\grade 3\software development technology\lab_01\lab_01\lab_01\lab_01.cpp(13): error C2276: &: недопустимая операция с выражением привязанной функции-члена
+g:\grade 3\software development technology\lab_01\lab_01\lab_01\lab_01.cpp(14): error C2276: &: недопустимая операция с выражением привязанной функции-члена
+g:\grade 3\software development technology\lab_01\lab_01\lab_01\lab_01.cpp(15): error C2276: &: недопустимая операция с выражением привязанной функции-члена
